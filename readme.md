@@ -8,3 +8,5 @@ This repository is part of some test related to *RHPAM* *Git Hook* capability. T
 ## Project description
 
 The project is a simple *BPMN* project with two *script tasks* only showing logs of starting and finhsing the process and with a timer of 2 seconds between the tasks.
+
+## Script description
