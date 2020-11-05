@@ -10,3 +10,5 @@ This repository is part of some test related to *RHPAM* *Git Hook* capability. T
 The project is a simple *BPMN* project with two *script tasks* only showing logs of starting and finhsing the process and with a timer of 2 seconds between the tasks.
 
 ## Script description
+
+The script used in this project is only a push script to take changes made using *Business Central* and replicate it to this repository
